@@ -1,10 +1,11 @@
 p {
 	font-family: verdana;
+	font-style : italic;
 	}
 title {
 	font-size: 200%;
 }
 
 nav {
-	background-color: red;
+	background-color: yellow;
 }

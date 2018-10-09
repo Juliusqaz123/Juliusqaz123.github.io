@@ -1,6 +1,7 @@
-nav {
+navigation {
 	background-color: blue;
+	color: white;
 }
-p {
+posts {
 	background-color: red;
 }
